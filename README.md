@@ -7,7 +7,7 @@ Pandas</br>
 
 Anaconda environment was created and requirements file has also been attached with it alond with the data set used for the training
 
-<b>Algorithm Used</b>
+<b>Algorithm Used</b><br>
 Linear Regression : </br>
 Y = mx + b </br>
 where b is an intercept and x and Y are independent and dependent values repectively.
